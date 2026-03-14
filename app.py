@@ -1,6 +1,5 @@
 from flask import Flask, send_from_directory
 import os
-# pip show flask
 
 app = Flask(__name__)
 
